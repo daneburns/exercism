@@ -1,0 +1,14 @@
+/home/dane/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+/home/dane/Code/exercism/haskell/space-age/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_space_age.hs:
+  hash: d586ec1c46714b6e580ca811a3a00cff3c7cdb4e3c83763f70fefbd120356b36
+/home/dane/Code/exercism/haskell/space-age/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: e95e2f4bf2e7dd53bffa699efdb83fb6dc10de16bc3039bb6b989d01182c50e8
+/home/dane/Code/exercism/haskell/space-age/package.yaml:
+  hash: d8dbdf4247d1f13fc1acdd3b68d702ceb46403e97b81ac10decfe16dc11cdfee
+/home/dane/Code/exercism/haskell/space-age/space-age.cabal:
+  hash: b7b9ebde7b5375b50f6c39425ecfe508537fd0486cdcd46ca9b7d36eeed8b042
+/home/dane/Code/exercism/haskell/space-age/src/SpaceAge.hs:
+  hash: 829e268fd87cb0af75d60282d66ba83cf69d417d534711d330bd687485b81162
+/usr/include/stdc-predef.h:
+  hash: d6bcc58441a423bbb3a52171fcd3b84d8b36e332a55221a1c3e6e899bc43ccb3

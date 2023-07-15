@@ -1,0 +1,14 @@
+/home/dane/.ghcup/ghc/9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+/home/dane/Code/exercism/haskell/leap/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/Paths_leap.hs:
+  hash: accf0cdd342e2394d925ec75cbdf569817b7dd03a7db196237fbde522e3ada97
+/home/dane/Code/exercism/haskell/leap/.stack-work/dist/x86_64-linux/Cabal-3.6.3.0/build/autogen/cabal_macros.h:
+  hash: 5e9693aa54e08f20031b4d2c4c7b280ef2d9a60b4c2d108fa457079d885c56a9
+/home/dane/Code/exercism/haskell/leap/leap.cabal:
+  hash: 641e3ae7af57db931ee8e10f9b77a194c563a2a82f22711255579abdbf64b543
+/home/dane/Code/exercism/haskell/leap/package.yaml:
+  hash: 741adae21e7fab15e96ec98d318f3ec9cbc33dc86f419cd56cd829d6c64a1c54
+/home/dane/Code/exercism/haskell/leap/src/LeapYear.hs:
+  hash: 2655deb759b750c21c43e2a1f24980de1cbc9d09f35f52dbaff8e2d149e97b3e
+/usr/include/stdc-predef.h:
+  hash: d6bcc58441a423bbb3a52171fcd3b84d8b36e332a55221a1c3e6e899bc43ccb3

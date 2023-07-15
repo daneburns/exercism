@@ -1,0 +1,14 @@
+/home/dane/.stack/programs/x86_64-linux/ghc-tinfo6-9.2.7/lib/ghc-9.2.7/include/ghcversion.h:
+  hash: d590b76d2d5f98f01894882dc106d920a101f52edb6a09b9a7f8dc701b075565
+? /home/dane/Code/exercism/haskell/hello-world/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.6.3.0/build/test/autogen/Paths_hello_world.hs
+: hash: af46f5d8b70ce7ef4f2661d1c874b4ca8e5ace512d098914a9aacb1e0de562d3
+? /home/dane/Code/exercism/haskell/hello-world/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.6.3.0/build/test/autogen/cabal_macros.h
+: hash: bfba995828dd1a426810c08a366a8190dbcc4c3378c6a45e9cb0029207070cbe
+/home/dane/Code/exercism/haskell/hello-world/hello-world.cabal:
+  hash: aa837f2c5cca4a702275fd908863f22682a79dea79624833985041f7b018f1e3
+/home/dane/Code/exercism/haskell/hello-world/package.yaml:
+  hash: 160a1a88b7a5bd0f6f1ffd3e24f56cbba5e4d4fbd7f76ea73d649199ca9d76a5
+/home/dane/Code/exercism/haskell/hello-world/test/Tests.hs:
+  hash: e3c9948060203a794b444e4596c90a63085f60817a31e9d626c9a3191142e0e5
+/usr/include/stdc-predef.h:
+  hash: d6bcc58441a423bbb3a52171fcd3b84d8b36e332a55221a1c3e6e899bc43ccb3
